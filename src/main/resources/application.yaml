@@ -1,0 +1,13 @@
+jwt:
+  secret: 34872398FHDSFGSFGF78DSF376FSEFDSFGSdgdfgdfgdgfdsgfdg434985790Fkhfkjsdfhdskajfhdslfdlsfasdlkfdsakfhsalfhdaskh423GSDF
+  duration: 200000
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: rootuser
+      password: rootpass
+      database: spring-kotlin
+      port: 27017
+      host: localhost
